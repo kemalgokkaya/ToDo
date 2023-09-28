@@ -34,7 +34,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
           },
           child: const Text("Add New Task"),
         ),
-        backgroundColor: Colors.white,
+        backgroundColor: Colors.blueGrey,
         appBar: AppBar(
           centerTitle: true,
           toolbarHeight: height / 8,
